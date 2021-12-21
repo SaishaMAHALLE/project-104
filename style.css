@@ -1,0 +1,24 @@
+body {
+    color: black;
+    background-image: linear-gradient(to top, #ffffff, rgb(146, 33, 190));
+}
+
+.heading {
+    width: 85%;
+    font-size: 30px;
+}
+
+.objects {
+    color: darkblue;
+    font-size: 18px;
+}
+
+#camera, #captured_img {
+    border: 2px dotted black; 
+    width: 370px;
+    height: 300px;
+}
+
+#object_name, #object_accuracy {
+    color: darkblue;
+}
